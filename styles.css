@@ -44,17 +44,17 @@
   background-color: #c0392b;
 }
 .navbar .navbar-toggle .navbar-toggler-icon {
-  color: #ecf0f1;
+  color: #000000;
 }
 .navbar .navbar-collapse,
 .navbar .navbar-form {
-  border-color: #ecf0f1;
+  border-color: #000000;
 }
 .navbar .navbar-link {
-  color: #ecf0f1;
+  color: #000000;
 }
 .navbar .navbar-link:hover {
-  color: #ffbbbc;
+  color: #000000;
 }
 
 @media (max-width: 575px) {
