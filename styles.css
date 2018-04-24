@@ -9,17 +9,17 @@
   color: #ffbbbc;
 }
 .navbar .navbar-text {
-  color: #ecf0f1;
+  color: #000000;
 }
 .navbar .navbar-text a {
-  color: #ffbbbc;
+  color: #000000;
 }
 .navbar .navbar-text a:hover,
 .navbar .navbar-text a:focus {
   color: #ffbbbc; 
 }
 .navbar .navbar-nav .nav-link {
-  color: #ecf0f1;
+  color: #000000;
   border-radius: .25rem;
   margin: 0 0.25em;
 }
@@ -33,7 +33,7 @@
 .navbar .navbar-nav .nav-item.show .nav-link,
 .navbar .navbar-nav .nav-item.show .nav-link:hover,
 .navbar .navbar-nav .nav-item.show .nav-link:focus {
-  color: #ffbbbc;
+  color:#000000;
   background-color: #c0392b;
 }
 .navbar .navbar-toggle {
@@ -73,55 +73,55 @@
 
 @media (max-width: 767px) {
   .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
-    color: #ecf0f1;
+    color: #000000;
   }
   .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
   .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
-    color: #ffbbbc;
+    color: #000000;
   }
   .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
-    color: #ffbbbc;
+    color: #000000;
     background-color: #c0392b;
   }
 }
 
 @media (max-width: 991px) {
   .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
-    color: #ecf0f1;
+    color: #000000;
   }
   .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
   .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
-    color: #ffbbbc;
+    color: #000000;
   }
   .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
-    color: #ffbbbc;
+    color: #000000;
     background-color: #c0392b;
   }
 }
 
 @media (max-width: 1199px) {
   .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
-    color: #ecf0f1;
+    color: #000000;
   }
   .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
   .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
-    color: #ffbbbc;
+    color: #000000;
   }
   .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
-    color: #ffbbbc;
+    color: #000000;
     background-color: #adc000;
   }
 }
 
 .navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
-  color: #ecf0f1;
+  color:#000000;
 }
 .navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
 .navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
-  color: #ffbbbc;
+  color: #000000;
 }
 .navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
-  color: #ffbbbc;
+  color:#000000;
   background-color: #c0392b;
 }
 .rows{
@@ -131,7 +131,7 @@ section1{
      background-color: #fffb07;
 }
 section3{
-     background-color: #fffb07;
+     background-color: #faf9d1;
 }
 section42{
     background-color: #fffb07;
