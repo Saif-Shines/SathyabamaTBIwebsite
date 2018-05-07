@@ -15,10 +15,10 @@ You can always ask doubts on Slack and get them rectified. This is a must for th
 ## Simple Steps
 
 1. Fork the project.
-2. Download to you local computer
+2. To download the forked repository to your computer, use the git command `git clone <URL of the forked repository>`.
 3. Make any changes which you feel, that can make the project better.
-4. Add it to staging area using git, `git add .`
-5. Commit the changes, `git commit -m "Any message here" `
-6. The send the local changes to your forked repo: `get push master origin` before that you need to `git remote add origin <URL of the repository>`
+4. To add it to staging area, use git command `git add .`
+5. Commit the changes, `git commit -m "your message about the edit" `
+6. Then send the local changes to your forked repository using git command `git push origin master`.
 7. After that raise a Pull request. I'll see your changes and add it.
 
