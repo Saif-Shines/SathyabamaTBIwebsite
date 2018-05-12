@@ -1,9 +1,9 @@
 # SathyabamaTBIwebsite
 This website is developed by Sathyabama Coding Club Students of Sathyabama. Information regarding this is available here on slack group at: https://sathyabamacodingclub.slack.com/files/U9D0CRE0P/FAC4WDNJW/web_site_module.docx 
 
-This is their part of In-house projects, Students are encourage to contribute to the project. 
+This is their part of In-house projects, Students are encouraged to contribute to the project. 
 
-If you find something is not good, please raise a issue or else you can directly contribute to the project by adding a new feature, please do not hesitate to give a pull request or fork the project for ou development purposes.
+If you find something is not good, please raise a issue or else you can directly contribute to the project by adding a new feature, please do not hesitate to give a pull request or fork the project for our development purposes.
 
 ## How to contribute to gain your acknowledgement.
 
